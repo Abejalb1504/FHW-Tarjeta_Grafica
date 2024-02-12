@@ -19,3 +19,4 @@ Nvidia RTX 4090 Founders Edition
 
 Amd RX 7900 XTX
 
+![7900](/Imagenes/7900.jpg)
