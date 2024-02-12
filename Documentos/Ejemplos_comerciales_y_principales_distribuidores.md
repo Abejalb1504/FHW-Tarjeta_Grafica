@@ -17,6 +17,12 @@ Nvidia RTX 4090 Founders Edition
 
 ![4090](/Imagenes/4090.jpg)
 
+### Amd
+
 Amd RX 7900 XTX
 
 ![7900](/Imagenes/7900.jpg)
+
+### Intel
+
+Intel Arc A770
