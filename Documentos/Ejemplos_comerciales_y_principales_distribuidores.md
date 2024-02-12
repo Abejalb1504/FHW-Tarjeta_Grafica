@@ -26,3 +26,5 @@ Amd RX 7900 XTX
 ### Intel
 
 Intel Arc A770
+
+![A770](/Imagenes/A770.jpg)
