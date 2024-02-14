@@ -9,3 +9,5 @@ Las tarjetas gráficas gaming están diseñadas principalmente para brindar un r
 ## Tarjetas profesionales
 
 Las tarjetas gráficas profesionales están diseñadas para aplicaciones que requieren un alto rendimiento en tareas relacionadas con gráficos y cálculos intensivos, pero que no están necesariamente relacionadas con juegos. Estas tarjetas están optimizadas para aplicaciones como diseño asistido por computadora (CAD), modelado 3D, animación, renderización de video, ciencias de la visualización, inteligencia artificial, aprendizaje automático, simulaciones científicas y otras tareas profesionales que requieren un rendimiento gráfico y computacional de alta precisión y confiabilidad. A menudo, las tarjetas gráficas profesionales vienen con características y certificaciones específicas para aplicaciones profesionales y pueden ser utilizadas en estaciones de trabajo y servidores dedicados.
+
+[Atras](../README.md)
