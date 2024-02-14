@@ -36,3 +36,5 @@ Estas características sí que suponen ciertas diferencias entre tarjetas gráfi
     * HDMI 2.1.
     * DisplayPort 1.4.
 USB, en el caso de las más potentes para realidad virtual.
+
+[Atras](README.md)
