@@ -10,4 +10,4 @@ Estas tarjetas utilizan una unidad de procesamiento gráfico o GPU, que muchas v
 La GPU (acrónimo de «graphics processing unit», que significa «unidad de procesamiento gráfico») es un procesador (como la CPU) dedicado al procesamiento de gráficos; su razón de ser es aligerar la carga de trabajo del procesador central y, por ello, está optimizada para el cálculo en coma flotante, predominante en las funciones 3D.
 
 
-[Atras](README.md)
+[Atras](../README.md)
